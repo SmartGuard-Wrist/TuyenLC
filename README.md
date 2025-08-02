@@ -2,7 +2,7 @@
 
 03/08/2025
 lập trình analog buổi 2
-![Uploading image.png…]()
+<img width="2439" height="1234" alt="image" src="https://github.com/user-attachments/assets/320bb4d8-02c5-47ee-a83d-646d42616903" />
 
 02/08/2025
 Lập trình AnalogRead
