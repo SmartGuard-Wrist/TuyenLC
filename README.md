@@ -1,4 +1,8 @@
 # TuyenLC
+17/08/2025
+lập trình đọc analog
+<img width="794" height="451" alt="image" src="https://github.com/user-attachments/assets/f358ed3a-8830-4cc6-a73e-80ec686b3a33" />
+
 
 03/08/2025
 lập trình analog buổi 2
